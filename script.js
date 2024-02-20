@@ -35,7 +35,7 @@ $(document).ready(function () {
       // Puedes ajustar el texto predeterminado aquí
       $('#line1').text('¡Hola amorcito!');
       $('#line2').text('Solo quería recordarte lo especial que eres para mí. Eres mi luz, mi risa y mi razón para sonreír todos los días. Gracias por hacer mi vida increíble.');
-      $('#line3').text('Cada momento contigo es un regalo precioso que atesoro con cariño. Gracias por ser mi apoyo incondicional y por compartir risas y lágrimas a mi lado . ');
+      $('#line3').text('Cada momento contigo es un regalo precioso que atesoro con cariño. Gracias por ser mi apoyo  y por compartir risas y lágrimas a mi lado . ');
       $('#line4').text('Con todo mi amor,[Matías]');
     }
   });
